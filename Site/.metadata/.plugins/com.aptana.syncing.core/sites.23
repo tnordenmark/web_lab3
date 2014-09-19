@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sites>
+<site>
+<name>RPI</name>
+<source>workspace:/uppgift_1</source>
+<destination>aptanavfs://56a20b56-c3d8-4cfe-b260-3cabc32d2521/</destination>
+</site>
+</sites>

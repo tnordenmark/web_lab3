@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<connections>
+<connection id="56a20b56-c3d8-4cfe-b260-3cabc32d2521" type="sftp">
+<name>RPI</name>
+<host>rpi</host>
+<path>/home/thomas/public_html/uppgift_1</path>
+<login>thomas</login>
+<privateKeyFile>/home/thomas/.ssh/id_rsa</privateKeyFile>
+<encoding>UTF-8</encoding>
+<compression>AUTO</compression>
+</connection>
+<connection id="2bf5dc28-5f3e-4ec1-9151-aaf9fef3efc8" type="workspace">
+<name>uppgift_1</name>
+<path>/uppgift_1</path>
+</connection>
+</connections>

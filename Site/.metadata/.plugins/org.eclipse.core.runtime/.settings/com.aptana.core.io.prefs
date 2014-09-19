@@ -1,0 +1,10 @@
+DirectoryPermission=511
+DownloadDirectoryPermission=511
+DownloadFilePermission=420
+DownloadSpecificPermissions=true
+DownloadUpdatePermissions=true
+FilePermission=420
+GLOBAL_CLOAKING_EXTENSIONS=blocklist;speedtest.html;.DS_Store;CVS;.git;.svn;.tmp*~;.settings
+UploadSpecificPermissions=true
+UploadUpdatePermissions=true
+eclipse.preferences.version=1

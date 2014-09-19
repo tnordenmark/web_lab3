@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+
+<!---
+Thomas Nordenmark
+thno1200
+t.nordenmark@gmail.com
+-->
+
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+
+		<title>Flygbolaget Kraschlanda AB</title>
+		<meta name="description" content="Allt du behöver för att känna dig otrygg i luftrummet!">
+		<meta name="author" content="Thomas Nordenmark">
+
+		<meta name="viewport" content="width=device-width; initial-scale=1.0">
+
+		<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+		
+		@viewport{
+            zoom: 1.0;
+            width: 960px;
+        }
+	</head>
+
+	<body>
+		<div>
+			<header>
+				<h1>Välkommen till Kraschlanda AB</h1>
+			</header>
+			<nav>
+				<p>
+					<a href="/">Home</a>
+				</p>
+				<p>
+					<a href="/contact">Contact</a>
+				</p>
+			</nav>
+
+			<div>
+
+			</div>
+
+			<footer>
+				<p>
+					&copy; Thomas Nordenmark 2014
+				</p>
+			</footer>
+		</div>
+	</body>
+</html>

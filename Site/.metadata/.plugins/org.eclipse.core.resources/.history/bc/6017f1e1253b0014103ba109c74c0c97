@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+
+<!---
+Thomas Nordenmark
+thno1200
+t.nordenmark@gmail.com
+-->
+
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+
+		<title>Uppgift 1 - Flygbolaget Krashlanda AB</title>
+		<meta name="description" content="">
+		<meta name="author" content="Thomas Nordenmark">
+
+		<meta name="viewport" content="width=device-width; initial-scale=1.0">
+
+		<!-- Replace favicon.ico & apple-touch-icon.png in the root of your domain and delete these references -->
+		<link rel="shortcut icon" href="/favicon.ico">
+		<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+	</head>
+
+	<body>
+		<div>
+			<header>
+				<h1>HTML</h1>
+			</header>
+			<nav>
+				<p>
+					<a href="/">Home</a>
+				</p>
+				<p>
+					<a href="/contact">Contact</a>
+				</p>
+			</nav>
+
+			<div>
+
+			</div>
+
+			<footer>
+				<p>
+					&copy; Copyright  by Thomas Nordenmark
+				</p>
+			</footer>
+		</div>
+	</body>
+</html>
